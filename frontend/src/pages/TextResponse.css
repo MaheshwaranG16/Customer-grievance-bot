@@ -1,0 +1,28 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+input,
+select,
+button {
+  padding: 8px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-top: 1rem;
+  background: #f9f9f9;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
